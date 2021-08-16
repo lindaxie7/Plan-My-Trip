@@ -8,7 +8,7 @@ We have the PlanMyTrip app, there are a few recommendeded changes to take the ap
 ## Results
 
 First, I generated a set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. In addition to the city weather data Frame, I use API to retrieve the current weather description for each city and then create a new DataFrame containing the updated weather data. 
-
+![Untitled](https://user-images.githubusercontent.com/38533045/129505378-1310b384-c4b9-4bae-ab9f-be1bea70a27b.png)
 
 Then, I use input statements to retrieve customer weather preferences, then use those preferences to identify potential travel destinations and nearby hotels. Then, show those destinations on a marker layer map with pop-up markers. The WeatherPy_vacation_map look like below: 
 
