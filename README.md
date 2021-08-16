@@ -21,7 +21,9 @@ At the end, I use the Google Directions API to create a travel itinerary that sh
 ![WeatherPy_travel_map](https://user-images.githubusercontent.com/38533045/129505489-6326d566-3572-4dc0-9b08-657c4c344cb5.png)
 
 
-![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/38533045/129505560-330b0342-9811-4084-b7c4-efd824ff44f3.png)
+![WeatherPy_travel_map_markers](https://user-images.githubusercontent.com/38533045/129505791-69e32b0c-3094-4758-bd7f-89d3798ecee9.png)
+
+
 
 
 
