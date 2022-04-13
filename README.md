@@ -2,7 +2,7 @@
 
 [Vacation_Itinerary](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
-[Vacation_Search](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
+[Vacation_Search](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Search/Vacation_Search.ipynb)
 
 [Weather Database](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
 
