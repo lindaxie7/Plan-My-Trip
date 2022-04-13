@@ -1,10 +1,12 @@
 # WeatherPy
 
-[Vacation_Itinerary](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
+## Python Code
 
-[Vacation_Search](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Search/Vacation_Search.ipynb)
+[Vacation_Itinerary Python Code](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
-[Weather Database](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
+[Vacation_Search Python Code](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Search/Vacation_Search.ipynb)
+
+[Create Weather Database](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Weather_Database/Weather_Database.ipynb
 
 ## Overview of Project
 
