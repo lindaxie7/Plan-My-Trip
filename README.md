@@ -1,5 +1,11 @@
 # WeatherPy
 
+[Data cleaning code](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
+
+[Analyze data with different machine leanring models code](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
+
+[Live prediction with Logistic Regression code](https://github.com/lindaxie7/Income-Prediction/blob/main/app.py)
+
 ## Overview of Project
 
 We have the PlanMyTrip app, there are a few recommendeded changes to take the app to the next level. We want to adding the weather description to the weather data frame, then use input statements to filter the data for the user's weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, we want to choose four cities to create a travel itinerary, and then using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
