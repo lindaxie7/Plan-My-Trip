@@ -4,7 +4,7 @@
 
 [Vacation_Itinerary Python Code](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
-[Vacation_Search Python Code](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Search/Vacation_Search.ipynb)
+[Create Travel Destinations Map](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Search/Vacation_Search.ipynb)
 
 [Create Weather Database](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Weather_Database/Weather_Database.ipynb)
 
