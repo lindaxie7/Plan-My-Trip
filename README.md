@@ -1,6 +1,6 @@
 # WeatherPy
 
-[Data cleaning code](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
+[Vacation_Itinerary](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
 
 [Analyze data with different machine leanring models code](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
