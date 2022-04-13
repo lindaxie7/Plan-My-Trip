@@ -1,6 +1,6 @@
 # WeatherPy
 
-[Vacation_Itinerary](https://github.com/lindaxie7/Income-Prediction/blob/main/data_cleaning.ipynb)
+[Vacation_Itinerary](https://github.com/lindaxie7/Plan-My-Trip/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb)
 
 [Vacation_Search](https://github.com/lindaxie7/Income-Prediction/blob/main/income_ML_model.ipynb)
 
